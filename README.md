@@ -6,7 +6,7 @@
 ---
 
 ## 프로젝트 구조
-
+'''
 project_root/
 ├── data_raw/ # 원본 데이터 (수정하지 않음)
 │ └── Data.csv
@@ -20,7 +20,7 @@ project_root/
 │ ├── preprocess.py # 데이터 전처리 메인 파이프라인
 │ └── gen_region_fallback.py # 초기 region 매핑 템플릿 생성
 └── README.md
-
+'''
 ---
 
 ## 전처리 파이프라인
