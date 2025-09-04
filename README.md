@@ -5,7 +5,7 @@
 
 ---
 
-## 📂 프로젝트 구조
+## 프로젝트 구조
 
 project_root/
 ├── data_raw/ # 원본 데이터 (수정하지 않음)
@@ -23,7 +23,7 @@ project_root/
 
 ---
 
-## ⚙️ 전처리 파이프라인
+## 전처리 파이프라인
 
 ### 1. 컬럼 후보 자동 매핑
 - `country`, `region`, `sector`, `year`, `emissions` 컬럼을 원본 데이터에서 자동 탐지  
